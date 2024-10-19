@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **negreta**, _cursiva_, or ~~tatxat~~.
 
 [Link to another page](./another-page.html).
 
